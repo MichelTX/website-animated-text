@@ -2,7 +2,9 @@
 
 <p>Site constuído com HTML e CSS.</p>
 
-<p>Seguindo tutorial disponível no Youtube em:https://www.youtube.com/watch?v=rc50owRPdUI</p>
+>Seguindo tutorial disponível no Youtube em:
+>
+>https://www.youtube.com/watch?v=rc50owRPdUI
 
 _______________________________________________________________________________________________________________________________________________________________________
 
